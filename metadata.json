@@ -1,0 +1,6 @@
+{
+  "name": "Smart PDF AI Assistant — RAG Document Intelligence",
+  "description": "Upload PDF documents and ask questions with genuine RAG retrieval and verified page citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
