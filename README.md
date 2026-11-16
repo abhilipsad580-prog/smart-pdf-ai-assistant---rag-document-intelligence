@@ -70,42 +70,41 @@ smart-pdf-ai-assistant/
 
 ### Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
 
 ```bash
 git clone https://github.com/abhilipsad580-prog/smart-pdf-ai-assistant---rag-document-intelligence.git
 ```
 
-2. Open the project directory:
+2. **Open the project directory:**
 
 ```bash
 cd smart-pdf-ai-assistant---rag-document-intelligence
 ```
 
-3. Install dependencies:
+3. **Install dependencies:**
 
 ```bash
 npm install
 ```
 
-4. Create a `.env.local` file in the project root and configure your Gemini API key:
+4. **Create a `.env.local` file** in the project root and add your Gemini API key:
 
 ```env
 GEMINI_API_KEY=your_gemini_api_key
 ```
 
-5. Start the application:
+5. **Start the application:**
 
 ```bash
 npm run dev
 ```
 
-6. Open the local application at:
+6. **Open the application** in your browser:
 
 ```text
 http://localhost:3000
 ```
-
 ## Testing and Validation
 
 The following checks have been performed during development:
