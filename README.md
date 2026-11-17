@@ -35,16 +35,17 @@ The application follows a Retrieval-Augmented Generation workflow.
 
 ## Technology Stack
 
-- **AI Platform:** Google Gemini
-- **Application Development:** Google AI Studio
-- **Programming:** JavaScript / TypeScript
-- **Frontend:** React-based application
-- **Backend:** Node.js
-- **Document Processing:** PDF text extraction
+- **AI Model/API:** Google Gemini (`@google/genai`)
+- **Frontend:** React 19
+- **Backend:** Node.js and Express 4
+- **Programming Languages:** JavaScript and TypeScript
+- **Build Tool:** Vite 8
+- **PDF Processing:** `pdf-parse` and `pdf-lib`
+- **Styling:** Tailwind CSS
+- **Icons:** Lucide React
+- **Animations:** Motion
 - **AI Architecture:** Retrieval-Augmented Generation (RAG)
 - **Version Control:** Git and GitHub
-
-*Note: The technology list should reflect the actual libraries and implementation in the project.*
 
 ## Project Structure
 
